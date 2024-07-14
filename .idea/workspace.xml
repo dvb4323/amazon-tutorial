@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eddb31ea-ccde-49f1-97b8-9854ce21ca43" name="Changes" comment="Add src">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazontutorial/amazontutorial/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/amazontutorial/amazontutorial/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazontutorial/amazontutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/amazontutorial/amazontutorial/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazontutorial/amazontutorial/spiders/amazon_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/amazontutorial/amazontutorial/spiders/amazon_spider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720969656759</updated>
-      <workItem from="1720969664970" duration="3229000" />
+      <workItem from="1720969664970" duration="5973000" />
     </task>
     <task id="LOCAL-00001" summary="Add src">
       <option name="closed" value="true" />
@@ -104,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720970913663</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add src">
+      <option name="closed" value="true" />
+      <created>1720973610924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720973610924</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
